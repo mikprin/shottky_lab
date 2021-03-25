@@ -5,3 +5,5 @@
 
 
 Рекомендуется к изучению. https://github.com/mikprin/shottky_lab/blob/master/rep_guidelines/rep_guidelines.pdf
+
+Log scale: https://en.wikipedia.org/wiki/Logarithmic_scale
